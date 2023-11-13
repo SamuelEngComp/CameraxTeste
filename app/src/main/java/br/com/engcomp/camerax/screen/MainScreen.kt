@@ -16,7 +16,7 @@ fun MainScreen(){
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hello world $name!",
         modifier = modifier
     )
 }
