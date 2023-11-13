@@ -7,7 +7,7 @@ import androidx.compose.ui.Modifier
 
 @Composable
 fun MainScreen(){
-    Greeting("Samuel")
+    Greeting("Alex SIAC E SISCON")
 }
 
 
